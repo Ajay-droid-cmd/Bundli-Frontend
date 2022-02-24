@@ -2,6 +2,10 @@
 
 Bundli-Frontend is a open source project which contains different code of frontend Development with HTML, CSS, JS, REACT, ANGULAR and APIs etc. which makes your life easier for learning frontend and make your intrest more in frontend.
 
+<p align="center">
+    <a href="https://github.com/Ayush7614"><img src="https://github.com/Ayush7614/Bundli-Frontend/blob/main/images/screenshot-hacktoberfest.digitalocean.com-2021.10.02-02_32_15.png" />
+    </a>
+
 <img src="https://github.com/Ayush7614/Bundli-Frontend/blob/main/poster/Animated-Poster.gif" alt="Poster" />
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Ayush7614/Bundli-Frontend?color=yellow)
@@ -731,6 +735,53 @@ You can refer to the following articles on the basics of Git and Github and also
 <p align="center">
      <a href="https://github.com/Ayush7614"><img src="https://github.com/Ayush7614/Bundli-Frontend/blob/892ddbadee5ec6c3b929a0e14738042704f63664/Card%20with%20Glowing%20Border/image.png"/></a>
   </p>
+  
+ ### 109. Animated Service-Cards
+
+<p align="center">
+     <a href="https://github.com/Ayush7614"><img src="https://github.com/pranjay-poddar/Bundli-Frontend/blob/service-card/Screenshots/service-cards.PNG"/></a>
+  </p>
+  
+ ### 110. Upside Left Animated Navbar
+
+<p align="center">
+     <a href="https://github.com/Ayush7614"><img src="https://github.com/pranjay-poddar/Bundli-Frontend/blob/upside-navbar/Screenshots/upside-navbar.PNG"/></a>
+  </p>
+  
+ ### 111. Image hover Effect 
+  <p align="center">
+     <a href="https://github.com/Ayush7614"><img src="https://github.com/siddhi-244/Bundli-Frontend/blob/3e1071c76f22efcac3306efd87525fc50bfcfd3a/Screenshots/Img_hover.jpg"/></a>
+  </p>
+
+ ### 112. Social-Media Footer
+  <p align="center">
+     <a href="https://github.com/Ayush7614"><img src="https://github.com/pranjay-poddar/Bundli-Frontend/blob/social-footer/Screenshots/social-footer.PNG"/></a>
+  </p>
+  
+ ### 113. Social-Media Footer
+  <p align="center">
+     <a href="https://github.com/mahesh-143"><img src="Frontend Developer portfolio site/PreviewImages/home-page-desktop-1.png"/></a>
+  </p>
+  
+ ### 114. JS-Keyboard 
+  <p align="center">
+     <a href="https://github.com/Ayush7614"><img src= "https://github.com/pranjay-poddar/Bundli-Frontend/blob/js_keyboard/Screenshots/js-keyboard.PNG"/></a>
+  </p>
+
+ ### 115. Blogs Saving WebApp - GoTo Blogs 
+  <p align="center">
+     <a href="https://github.com/imsushan12"><img src= "./Goto-Blogs/output.png"/></a>
+  </p>
+  
+ ### 116. Are You Palindromic
+  <p align="center">
+     <a href="https://github.com/anjali1102"><img src="https://github.com/Ayush7614/Bundli-Frontend/blob/main/Screenshots/are you palindrome.png"/></a>
+  </p>
+
+### 117. Binary Clock
+<p align="center">
+    <a href="https://github.com/Ayush7614"><img src="https://github.com/rene-ph/Bundli-Frontend/blob/main/binary-clock/Binary.png" /></a></a>
+</p>
 
 > **_Need help? Feel free to contact me @ [ayushknj3@gmail.com](mailto:ayushknj3@gmail.com?Subject=Bundli-Frontend)_**
 
